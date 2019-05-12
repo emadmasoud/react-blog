@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+.bold {
+    font-weight: 700;
+}
+.App button {
+    padding: 12px 20px;
+    color: #fff;
+    background-color: green;
+}
+.App button:hover {
+    color: #000;
+    background-color: lightgreen;
+}
+.App button.red {
+    background-color: red;
+}
+.App button.red:hover {
+    color: #000;
+    background-color: lightcoral;
+}
